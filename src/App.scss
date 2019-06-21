@@ -1,0 +1,18 @@
+.App {
+  text-align: left;
+}
+.App {
+  .card {
+    margin: 20px 0px 20px;
+  }
+  .fa-plus-square {
+    color: white;
+    font-size: 30px;
+  }
+  .navbar-brand {
+    color: white;
+  }
+  .navbar.bg-light {
+    background-color: darkred !important;
+  }
+}
